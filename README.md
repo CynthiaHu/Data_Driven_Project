@@ -4,7 +4,7 @@ The repository is for W205 Final Project - Data Driven.
 The whole process takes about 10-12 hours, depending on the network and the instance type.
 
 ## Set Up EC2 Instance
-EC2 Instance for Lab1-4 can be used but need to attach a EBS volume of 200GB+ for this project.
+EC2 Instance for Lab1-4 can be used but need to attach an EBS volume of 200GB+ for this project.
 
 Start Hadoop, Postgres and Hive Metastore in the instance.
 
